@@ -8,4 +8,4 @@ The Titanic dataset contained missing data and categorical variables which requi
 Several machine learning models were trained and evaluated on the Titanic dataset. The models evaluated included logistic regression, decision tree, random forest and naive bias. After evaluating the models, decision tree and random forest were found to perform the best.
 
 # Conclusion
-The random forest model was ultimately selected as the best model for predicting the survival of passengers on the Titanic, with an accuracy score of 0.987. This model can be used to predict the survival of new passengers and provide insights into the factors that contributed to survival on the Titanic.
+The random forest and descion tree models were ultimately selected as the best models for predicting the survival of passengers on the Titanic, with an accuracy score of 0.987. these models can be used to predict the survival of new passengers and provide insights into the factors that contributed to survival on the Titanic.
